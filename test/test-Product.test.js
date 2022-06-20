@@ -1,6 +1,6 @@
 const { expect } = require('@jest/globals');
 
-const Product = require('../Product.js');
+const Product = require('../frontend/Product.js');
 
 describe('Test the Product class', () => {
 

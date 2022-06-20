@@ -1,6 +1,6 @@
 require('./fakeDOM.js');
 
-const { grabEl } = require('../helpers');
+const { grabEl } = require('../frontend/helpers');
 
 describe('Test grabEl', () => {
 
